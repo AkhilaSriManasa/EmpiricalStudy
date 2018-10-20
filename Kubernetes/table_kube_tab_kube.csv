@@ -1,0 +1,14 @@
+FILES
+..
+.swagger-codegen
+client
+docs
+e2e_test
+test
+.swagger-codegen-ignore
+README.md
+__init__.py
+config
+stream
+swagger.json.unprocessed
+watch

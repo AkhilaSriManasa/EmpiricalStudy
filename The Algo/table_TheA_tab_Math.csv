@@ -1,0 +1,11 @@
+FILES
+..
+BasicMaths.py
+FibonacciSequenceRecursion.py
+GreaterCommonDivisor.py
+ModularExponential.py
+PrimeCheck.py
+SegmentedSieve.py
+SieveOfEratosthenes.py
+SimpsonRule.py
+TrapezoidalRule.py

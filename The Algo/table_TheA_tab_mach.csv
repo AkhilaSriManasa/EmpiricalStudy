@@ -1,0 +1,11 @@
+FILES
+..
+NaiveBayes.ipynb
+Reuters - OneVsRestClassifier.ipynb
+decision_tree.py
+gradient_descent.py
+k_means_clust.py
+linear_regression.py
+logistic_regression.py
+perceptron.py
+scoring_functions.py

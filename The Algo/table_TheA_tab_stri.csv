@@ -1,0 +1,6 @@
+FILES
+..
+knuth-morris-pratt.py
+levenshtein-distance.py
+min-cost-string-conversion.py
+rabin-karp.py
