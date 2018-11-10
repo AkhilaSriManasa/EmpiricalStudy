@@ -1,7 +1,7 @@
+
 # -*- coding: utf-8 -*-
 """
 Created on Fri Oct 19 11:33:55 2018
-
 @author: Akhila Sri Manasa
 """
 from lxml import html
@@ -65,8 +65,8 @@ def scrapeNew2(url,xpath):
     
 temp_url = "https://github.com/search?q=python"
 #for folder names
-for folder_no in range(1,2):
-    scrape(temp_url,"//div[@id='js-pjax-container']/div/div[3]/div/ul/div["+str(folder_no)+"]/div[1]/h3/a/text()")
+for folder_no in range(8,9):
+    scrape(temp_url,"//div[@id='js-pjax-container']/div/div[3]/div/ul/li["+str(folder_no)+"]/div[1]/h3/a/text()")
  #"+str(page_no)+"   
 
 print(all_items[0])

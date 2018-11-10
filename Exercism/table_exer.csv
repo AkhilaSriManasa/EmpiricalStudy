@@ -1,0 +1,14 @@
+FOLDER
+.github
+bin
+config
+docs
+exercises
+img
+test
+.gitignore
+.travis.yml
+LICENSE
+README.md
+config.json
+requirements-travis.txt
